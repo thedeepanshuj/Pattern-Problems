@@ -6,13 +6,15 @@ int main(){
   int n;
   cin>>n;
 
+  int val = 1;
   //LOOP TO PRINT MULTIPLE ROWS
   for(int row=1; row<=n; row++){
     //WORK OF ONE ROW
 
     //LOOP TO PRINT MULTIPLE COLUMNS
     for(int col=1; col<=row; col++){
-      cout<<"1 ";
+      cout<<val<<" ";
+      val++;
     }
     cout<<endl;
   }
