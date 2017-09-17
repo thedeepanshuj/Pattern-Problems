@@ -185,18 +185,18 @@ N = 4
 #### Pattern 18:
 
 ```
-N = 5							N = 4
-	*							*
-	* *							* *
-	* * *							* * *
-	* *							* *
-	*							*
+N = 5 ##### (N is always odd)
+	*
+	* *
+	* * *
+	* *
+	*
 ```
 
 #### Pattern 19:
 
 ```
-N = 5 #####(N is always odd)
+N = 5 (N is always odd)
 	    *
 	  * * *
 	* * * * *
@@ -208,7 +208,7 @@ N = 5 #####(N is always odd)
 #### Pattern 20:
 
 ```
-N = 5 ######(N is always odd)
+N = 5 (N is always odd)
 	    1
 	  1 2 3
 	1 2 3 4 5
@@ -360,7 +360,3 @@ N = 5
 	7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4
 	
 ```
-
-
-
-
