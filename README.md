@@ -185,7 +185,7 @@ N = 4
 #### Pattern 18:
 
 ```
-N = 5 ##### (N is always odd)
+N = 5 (N is always odd)
 	*
 	* *
 	* * *
