@@ -1,5 +1,6 @@
 # Pattern-Problems
 This repository consists of various pattern problems in C++ including their solution starting from easy level going to hard level.
+
 	**** You can also contribute new problems by contacting at jaindeepanshu7@gmail.com ****
 
 ### Getting Started
