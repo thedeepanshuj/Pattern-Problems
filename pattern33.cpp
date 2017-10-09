@@ -7,15 +7,13 @@ int main(){
   cin>>n;
 
   for(int row=1; row<=n; row++){
-    //row-1 spaces
+
     for(int spaces=1; spaces<=row-1; spaces++){
       cout<<"  ";
     }
 
-    //row
     cout<<row<<" ";
 
-    //n-row+1 stars
     for(int col=1; col<=n-row+1; col++){
       cout<<"* ";
     }
