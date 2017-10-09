@@ -10,7 +10,7 @@ This repository consists of various pattern problems in C++ including their solu
 
 * MacOS users can either use XCode or the terminal for compilation of files (latter is recommended)
 
-* Linux users have to do this from terminal 
+* Linux users have to do this from terminal
 
 #### Pattern 1:
 
@@ -145,7 +145,7 @@ N = 4
 
 ```
 N = 4
-	1 
+	1
 	3 2
 	4 5 6
 	10 9 8 7
@@ -317,23 +317,23 @@ N = 5
 	1 2 3         3 2 1
 	1 2 3 4     4 3 2 1
 	1 2 3 4 5 5 4 3 2 1
-	
-```
-
-
-#### Pattern 31:
 
 ```
-N = 5
+
+
+#### Pattern 30:
+
+```
+N = 5 #####(N is always odd)
 	* * * * *
 	* *   * *
 	*       *
 	* *   * *
-	* * * * *	
+	* * * * *
 ```
 
 
-#### Pattern 32:
+#### Pattern 31:
 
 ```
 N = 5
@@ -349,7 +349,7 @@ N = 5
 ```
 
 
-#### Pattern 33:
+#### Pattern 32:
 
 ```
 N = 5
@@ -358,5 +358,5 @@ N = 5
 	4 5 6 7
 	8 9 1 2 3 4 5 6
 	7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4
-	
+
 ```
